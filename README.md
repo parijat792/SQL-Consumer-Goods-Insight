@@ -1,2 +1,2 @@
-- Analyzed 10 adhoc request using sql techniques like **cte**, **window function** and **sub queries** shown in [Consumer Goods Insight.pdf](https://github.com/parijat792/SQL_Consumer_Goods_Insight/blob/main/Consumer%20Goods%20Insight.pdf)
-- Made [Consumer Goods Insight.pbix](https://github.com/parijat792/SQL_Consumer_Goods_Insight/blob/main/Consumer%20Goods%20Insight.pbix) Power BI dashboard for these problem using visualizations like line chart, clustered chart, donut chart, map and slicers.
+- Analyzed 10 adhoc request using sql techniques like **cte**, **window function** and **sub queries** shown in [Consumer Goods Insight](https://github.com/parijat792/SQL_Consumer_Goods_Insight/blob/main/Consumer%20Goods%20Insight.pdf)
+- Made [Power BI](https://github.com/parijat792/SQL_Consumer_Goods_Insight/blob/main/Consumer%20Goods%20Insight.pbix) dashboard for these problem using visualizations like line chart, clustered chart, donut chart, map and slicers.
