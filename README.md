@@ -1,0 +1,2 @@
+- Analyzed 10 adhoc request using sql techniques like **cte**, **window function** and **sub queries**.
+- Made Power BI dashboard for these problem using visualizations like line chart, clustered chart, donut chart, map and slicers.
